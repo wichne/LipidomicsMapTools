@@ -1,0 +1,48 @@
+Symbols_Pathway	Abundance
+ACC1	Moderate
+ALE1	Low
+EGCrP1	Very Low
+ELO1	Moderate
+ELO1	Moderate
+Elo2	Low
+EPT1	Low
+ERG1	Moderate
+ERG10	Moderate
+ERG10	Moderate
+ERG11	Moderate
+ERG12	Moderate
+ERG13	High
+ERG2	Moderate
+ERG20	High
+ERG24	Low
+ERG25	Moderate
+ERG25	Moderate
+Erg26	Moderate
+ERG27	Moderate
+ERG28	Moderate
+ERG3	Moderate
+ERG4	Low
+ERG5	Moderate
+ERG6	Moderate
+ERG7	Low
+ERG8	Low
+ERG9	Moderate
+FAD2	Moderate
+FAS1	Moderate
+FAS2	Moderate
+GCS1	Very Low
+HMG1	Moderate
+IDI1	Moderate
+IFA38	Moderate
+LAC1	Moderate
+LCB1	Low
+LCB2	Very Low
+LIP1	Very Low
+MVD1	Moderate
+OLE1	Moderate
+PAH1	Low
+PIS1	Low
+SCS7	Moderate
+SPO14	Low
+SUR2	Moderate
+TSC10	Moderate

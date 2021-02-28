@@ -1,0 +1,389 @@
+#depth	label	shape	x1	y1	x2	y2	width	height	Label position	Justification	arrow	start	end	fill	color
+0	Fatty Acid	r	66	77	1666	607			TL	L				fffbbe	fffbbe
+0	Glycerolipids	r	66	672	855	1220			TL	L				e6d4f5	e6d4f5
+0	Glycerolipids	r	66	1221	475	2126								e6d4f5	e6d4f5
+0	Glycerophospholipids	r	856	672	1665	2396			T	C				d4f5f0	d4f5f0
+0	Glycerophospholipids	r	476	1221	1664	2396								d4f5f0	d4f5f0
+0	Glycerophospholipids	r	66	2127	475	2396								d4f5f0	d4f5f0
+0	Sphingolipids	r	1718	1234	2296	2396			TL	L				ffd6b7	ffd6b7
+0	Sterols	r	1718	78	1944	1166			TL	L				e5ffba	e5ffba
+0	Sterols	r	1945	662	2296	1166								e5ffba	e5ffba
+0	Proteomics Key	r	1974	78	2296	320								ltgray	
+0	Lipidomics Key	r	1974	350	2296	632								ltgray	
+1	ACoA-a	a	974	608			72	24				180	270		black
+1	Acyl-CoA-a	a	412	2198			40	62				90	180		black
+1	Acyl-CoA-a	a	448	768			72	60				0	90		black
+1	Acyl-CoA-a	a	1234	2224			52	66				0	90		black
+1	Acyl-CoA-a	a	1512	1982			72	48				90	180		black
+1	Acyl-CoA-a	a	1905	2314			76	44				0	90		black
+1	Acyl-CoA-a	a	2012	1864			74	32				90	180		black
+1	CTP-a	a	997	918			72	16				270	360		black
+1	FFA-a	a	412	2289			40	62				180	270		black
+1	FFA-a	a	1874	1864			74	32				0	90		black
+1	G3P-1-Sct1-1-a	a	336	426			76	62				90	180		black
+1	G3P-2-Sct1-2-a	a	528	401			76	62				90	180		black
+1	G3P-3-Sct1-3-a	a	718	376			74	62				90	180		black
+1	G3P-4-Sct1-4-a	a	909	351			64	62				90	180		black
+1	G3P-a	a	1210	930			72	38				90	180		black
+1	Ino-a	a	1282	1398			72	52				180	270		black
+1	mACP-a	a	1460	142			150	100				0	135		black
+1	Ser-a	a	997	1003			72	28				270	360		black
+1	3kaACP-3OHaACP	l	1435	206	1366	142									black
+1	3kaCoA-3OHaCoA	l	859	206	789	142									black
+1	3OHaACP-EaACP	l	1342	142	1272	206									black
+1	3OHaCoA-EaCoA	l	765	142	693	206									black
+1	AACP-3kaACP	l	1435	230	1366	294									black
+1	aACP-line	l	1342	306	1230	306									black
+1	Ale1-l	l	1058	1371	1058	1298									black
+1	C14C26CoA-3kaCoA	l	789	294	859	230									black
+1	Cer-CerOH	l	1848	1692	1848	1564									black
+1	CerOH-PI Cer	l	1945	1482	1945	1437									black
+1	CL-MLCL-1	l	1414	1305	1414	1371									black
+1	CL-MLCL-2	l	1414	1371	1439	1371									black
+1	Cpt1-l	l	631	1180	631	1265									black
+1	Dag1-l	l	416	798	506	798									black
+1	DAG-CL-1	l	1047	971	1276	971									black
+1	DAG-CL-2	l	1276	971	1276	1214									black
+1	DAG-CL-3	l	1276	1214	1294	1214									black
+1	DAG-PG-1	l	1046	963	1174	963									black
+1	DAG-PG-2	l	1174	963	1174	866									black
+1	DAG-PG-3	l	1174	866	1294	866									black
+1	DAG-PI 1	l	1047	979	1247	979									black
+1	DAG-PI-2	l	1247	979	1247	1434									black
+1	DAG-PI-3	l	1247	1434	1294	1434									black
+1	DG-PA-l	l	817	837	901	837									black
+1	DG-PC-l	l	631	1182	631	1265									black
+1	DG-PE-l-1	l	817	1127	853	1127									black
+1	DG-PE-l-2	l	853	1127	853	1751									black
+1	DG-PE-l-3	l	853	1751	901	1751									black
+1	EaACP-AACP	l	1272	230	1342	294									black
+1	EaCoA-C14C26CoA	l	693	230	765	294									black
+1	line 2-1	l	203	307	973	307									black
+1	line 2-2	l	1342	307	1210	307									black
+1	line 3-1	l	394	119	394	432									black
+1	line 3-2	l	394	432	934	432									black
+1	line 3-3	l	934	432	934	556									black
+1	line 4-1	l	585	119	585	407									black
+1	line 4-2	l	585	407	942	407									black
+1	line 4-3	l	942	407	942	556									black
+1	line 5-1	l	777	307	777	382									black
+1	line 5-2	l	777	382	949	382									black
+1	line 5-3	l	949	382	949	556									black
+1	line 6	l	1782	130	1549	130									black
+1	line1-1	l	203	119	203	457									black
+1	line1-2	l	203	457	926	457					N				black
+1	line1-3	l	926	457	926	557									black
+1	LPA-PA	l	938	582	938	716									black
+1	LPC-PC-l	l	368	2229	506	2229									black
+1	LPE-PE-l	l	1293	2257	1163	2257									black
+1	LPG-PG	l	1469	974	1469	903									black
+1	LPI-PI	l	1475	2026	1475	1910									black
+1	MLCL-CL-1	l	1463	1371	1490	1371									black
+1	MLCL-CL-2	l	1490	1371	1490	1305									black
+1	PA-DG-l	l	817	798	901	798									black
+1	PA-PS-l	l	1033	904	1033	1037									black
+1	PC-DG-l	l	680	1265	680	1182									black
+1	PC-LPC-l	l	506	2258	368	2258									black
+1	PE-DG-l-1	l	901	1777	839	1777									black
+1	PE-DG-l-2	l	839	1777	839	1153									black
+1	PE-DG-l-3	l	839	1153	817	1153									black
+1	PE-LPE-l	l	1163	2287	1293	2287									black
+1	PE-PC-l-1	l	901	1990	823	1990									black
+1	PE-PC-l-2	l	823	1990	823	2278									black
+1	PE-PC-l-3	l	823	2278	797	2278									black
+1	PG-CL-1	l	1610	819	1642	819									black
+1	PG-CL-2	l	1642	819	1642	1216									black
+1	PG-CL-3	l	1642	1216	1610	1216									black
+1	PG-LPG	l	1430	903	1430	974									black
+1	PI Cer-GM2IPC-l-1	l	2114	1343	2185	1343									black
+1	PI Cer-GM2IPC-l-2	l	2185	1343	2185	1494									black
+1	PI-CER-PI	l	1610	1470	1942	1470									black
+1	PI-LPI	l	1426	1910	1426	2026									black
+1	Plb-l	l	1008	1298	1008	1371									black
+1	PS-PE-1	l	1164	1169	1180	1169									black
+1	PS-PE-2	l	1180	1169	1180	1522									black
+1	PS-PE-3	l	1180	1522	1164	1522									black
+1	sphingolipid line 10	l	1942	1942	1942	2355									black
+1	sphingolipid line 11	l	1957	2106	2081	2106									black
+1	sphingolipid line 12-1	l	2087	2118	2087	2132									black
+1	sphingolipid line 12-2	l	2087	2132	1952	2132									black
+1	sphingolipid line 12-3	l	1952	2132	1952	2118									black
+1	sphingolipid line 4-1	l	2114	1737	2176	1737									black
+1	sphingolipid line 4-2	l	2176	1737	2176	1650									black
+1	sphingolipid line 5-1	l	2219	1650	2219	1762									black
+1	sphingolipid line 5-2	l	2219	1762	2114	1762									black
+1	sphingolipid line 6-1	l	1911	1816	1911	1923									black
+1	sphingolipid line 6-2	l	1911	1923	1956	1923									black
+1	sphingolipid line 7-1	l	1975	1816	1975	1923									black
+1	sphingolipid line 7-2	l	1975	1923	1957	1923									black
+1	sphingolipid line 8	l	1957	1929	2081	1929									black
+1	sphingolipid line 9-1	l	2087	1942	2087	1956									black
+1	sphingolipid line 9-2	l	2087	1956	1952	1956									black
+1	sphingolipid line 9-3	l	1952	1956	1952	1942									black
+1	Spo14-l	l	680	1180	680	1265									black
+1	sterol-line 2	l	1807	949	2082	949									black
+1	sterol-line 3	l	2095	936	2095	882									black
+1	sterol-line-1	l	1794	143	1794	1095									black
+1	TG-DG	l	416	963	506	963									black
+1	arrow-1	t	203	142							0				black
+1	arrow-2-1	t	216	307							90				
+1	arrow-2-2	t	406	307							90				
+1	arrow-2-3	t	597	307							90				black
+1	arrow-2-4	t	973	307							270				
+1	arrow-3	t	394	142							0				
+1	arrow-4	t	585	142							0				black
+1	arrow-ACP	t	1215	307							90				black
+1	arrow-Ale1	t	1058	1298							0				black
+1	arrow-CER	t	1975	1820											
+1	arrow-Cer	t	2114	1737							90				black
+1	arrow-CerOH	t	1848	1564							0				black
+1	arrow-cho1	t	1033	1038							180				black
+1	arrow-CL-MLCL	t	1439	1371							270				black
+1	arrow-Dag1	t	416	798							90				black
+1	arrow-DAG-PI-1	t	1294	1434							270				black
+1	arrow-DG-PA	t	901	837							270				black
+1	arrow-DG-PC-2	t	631	1265							180				black
+1	arrow-DG-PE-1	t	901	1751							270				black
+1	arrow-DMPE	t	823	2168							180				black
+1	arrow-Elo	t	862	230							315				black
+1	arrow-Fas1	t	1272	206							135				black
+1	arrow-Fas1-2	t	1342	294							225				black
+1	arrow-Fas2	t	1366	142							45				black
+1	arrow-Fas2-2	t	1366	294							135				black
+1	arrow-FFA	t	392	2289							180				black
+1	arrow-FFA	t	1874	1880							90				black
+1	arrow-Gep4	t	1292	866							270				black
+1	arrow-GM2IPC	t	2185	1497							180				black
+1	arrow-HexCer	t	2219	1654							0				black
+1	arrow-Ifa38	t	789	142							45				black
+1	arrow-LCB-1	t	1931	1923							270				black
+1	arrow-LCB-2	t	1942	1941							0				black
+1	arrow-LCB-3	t	1952	1941							0				black
+1	arrow-LCB-4	t	1942	2117							0				black
+1	arrow-LCB-5	t	1952	2117							0				black
+1	arrow-LCB-6	t	1943	2249							0				black
+1	arrow-LCBP	t	2082	1929							270				black
+1	arrow-LCBP	t	2082	2106							270				black
+1	arrow-LPA-1	t	926	557							180				black
+1	arrow-LPA-2	t	934	557							180				black
+1	arrow-LPA-3	t	942	557							180				black
+1	arrow-LPA-4	t	949	557							180				black
+1	arrow-LPA-PA	t	938	716							180				black
+1	arrow-LPC-PC-1	t	506	2229							270				black
+1	arrow-LPE-PE-1	t	1163	2257							90				black
+1	arrow-LPG-PG	t	1469	903							0				black
+1	arrow-LPI-PI	t	1475	1910							0				black
+1	arrow-malonyl	t	1566	130							90				black
+1	arrow-MIPC	t	2185	1395							180				black
+1	arrow-MLCL-CL	t	1490	1305							0				black
+1	arrow-MMPE	t	823	2066							180				black
+1	arrow-PA-DG	t	817	798							90				black
+1	arrow-PC-DG-2	t	680	1182							0				black
+1	arrow-PC-LPC	t	368	2258							90				black
+1	arrow-PE-DG-1	t	817	1153							90				black
+1	arrow-PE-LPE-1	t	1293	2287							270				black
+1	arrow-PE-PC-1	t	797	2278							90				black
+1	arrow-PG-CL-1	t	1610	1216							90				black
+1	arrow-PG-LPG	t	1430	974							180				black
+1	arrow-PGP	t	1210	866							270				black
+1	arrow-PI-LPI	t	1426	2026							180				black
+1	arrow-Plb1	t	1008	1371							180				black
+1	arrow-Psh1	t	693	206							135				black
+1	arrow-PS-PE-1	t	1164	1522							90				black
+1	arrow-sterols-1	t	1794	142							0				
+1	arrow-sterols-10	t	1794	586							180				
+1	arrow-sterols-11	t	1794	613							180				
+1	arrow-sterols-12	t	1794	664							180				
+1	arrow-sterols-13	t	1794	703							180				
+1	arrow-sterols-14	t	1794	742							180				
+1	arrow-sterols-15	t	1794	781							180				
+1	arrow-sterols-16	t	1794	820							180				
+1	arrow-sterols-17	t	1794	859							180				
+1	arrow-sterols-18	t	1794	898							180				
+1	arrow-sterols-19	t	1794	925							180				
+1	arrow-sterols-2	t	1794	274							180				
+1	arrow-sterols-20	t	1794	976							180				
+1	arrow-sterols-21	t	1794	1015							180				
+1	arrow-sterols-22	t	1794	1054							180				
+1	arrow-sterols-23	t	1794	1081							180				
+1	arrow-sterols-24	t	1794	1093							180				
+1	arrow-sterols-25	t	2083	949							270				
+1	arrow-sterols-26	t	2095	883							0				
+1	arrow-sterols-27	t	1794	937							180				
+1	arrow-sterols-28	t	1794	625							180				
+1	arrow-sterols-3	t	1794	313							180				
+1	arrow-sterols-4	t	1794	352							180				
+1	arrow-sterols-5	t	1794	391							180				
+1	arrow-sterols-6	t	1794	430							180				
+1	arrow-sterols-7	t	1794	469							180				
+1	arrow-sterols-8	t	1794	508							180				
+1	arrow-sterols-9	t	1794	547							180				
+1	arrow-Tgl	t	506	975							270				black
+1	arrow-Tsc13	t	765	294							225				black
+1	PI_Cer-arrow	t	1945	1437							0				black
+2	ACC1	e	1794	169			24		R	L					black
+2	ALE1	e	424	2229			24		RT	L					black
+2	ALE1	e	436	870			24		RB	L					black
+2	ALE1	e	938	692			24		L	R					black
+2	ALE1	e	1058	1338			24		R	L					black
+2	ALE1	e	1222	2257			24		T	R					black
+2	ALE1	e	1469	937			24		R	L					black
+2	ALE1	e	1475	1970			24		R	L					black
+2	ARE2	e	436	846			24		RB	L					black
+2	AUR1	e	1945	1461			24		R	L					black
+2	CDS1	e	1033	930			24		R	L					black
+2	CHO1	e	1033	1015			24		R	L					black
+2	CHO2	e	823	2028			24		R	L					black
+2	CLD1	e	1414	1332			24		L	R					black
+2	CPT1	e	631	1207			24		L	R					black
+2	CPT1	e	631	1208			24		L	R					black
+2	CRD1	e	1276	1101			24		R	L					black
+2	CRD1	e	1642	1101			24		L	R					black
+2	CST26	e	1475	1946			24		R	L					black
+2	DAG1	e	436	798			24		RB	L					black
+2	DGK1	e	859	837			24		B	C					black
+2	EGCRP1	e	2176	1673			24		L	R					black
+2	ELO1	e	836	252			24		R	L					black
+2	ELO2	e	816	271			24		R	L					black
+2	EPT1	e	853	1338			24		R	L					black
+2	ERG1	e	1794	559			24		R	L					black
+2	ERG10	e	1794	247			24		L	R					black
+2	ERG10	e	1818	247			24		R	L					black
+2	ERG11	e	1794	676			24		R	L					black
+2	ERG12	e	1794	364			24		R	L					black
+2	ERG13	e	1794	286			24		R	L					black
+2	ERG2	e	1794	910			24		R	L					black
+2	ERG20	e	1818	481			24		R	L					black
+2	ERG24	e	1794	715			24		R	L					black
+2	ERG25	e	1794	754			24		R	L					black
+2	ERG26	e	1794	793			24		R	L					black
+2	ERG27	e	1794	832			24		R	L					black
+2	ERG3	e	1794	988			24		R	L					black
+2	ERG4	e	1794	1066			24		R	L					black
+2	ERG4	e	2095	910			24		R	L					black
+2	ERG5	e	1794	1027			24		R	L					black
+2	ERG6	e	1794	871			24		R	L					black
+2	ERG6	e	1945	949			24		T	C					black
+2	ERG7	e	1794	598			24		R	L					black
+2	ERG8	e	1794	403			24		R	L					black
+2	ERG9	e	1794	520			24		R	L					black
+2	FAD2	e	489	306			24		T	C					black
+2	FAS1	e	1306	174			24		L	R					black
+2	FAS1	e	1306	262			24		L	R					black
+2	FAS1	e	1643	130			24		T	C					black
+2	FAS2	e	1403	174			24		R	L					black
+2	FAS2	e	1405	262			24		R	L					black
+2	GCS1	e	2219	1673			24		R	L					black
+2	GEP4	e	1260	866			24		T	C					black
+2	HCBG_05092	e	313	306			24		TL	L					black
+2	HCBG_08514	e	284	306			24		TR	R					black
+2	HMG2	e	1794	325			24		R	L					black
+2	ICT1	e	938	668			24		L	R					black
+2	IDI1	e	1794	481			24		L	R					black
+2	IFA38	e	824	174			24		R	L					black
+2	LAG1	e	1975	1852			24		R	L					black
+2	LCB1	e	1943	2277			24		R	L					black
+2	LCB2	e	1943	2302			24		R	L					black
+2	LCB3	e	2020	1956			24		B	C					black
+2	LCB3	e	2020	2132			24		B	C					black
+2	LCB4	e	2020	1929			24		T	C					black
+2	LCB4	e	2020	2106			24		T	C					black
+2	LOA1	e	938	620			24		L	R					black
+2	LOR1	e	436	822			24		RB	L					black
+2	MVD1	e	1794	442			24		R	L					black
+2	NTE1	e	424	2258			24		RB	L					black
+2	OLE1	e	681	306			24		T	C					black
+2	OPI3	e	823	2129			24		R	L					black
+2	OPI3	e	823	2231			24		R	L					black
+2	PAF-AH	e	424	2282			24		RB	L					black
+2	PAH1	e	859	798			24		T	C					black
+2	PGS1	e	1174	918			24		R	L					black
+2	PIS1	e	1245	1410			24		L	R					black
+2	PLB1	e	424	2306			24		RB	L					black
+2	PLB1	e	1008	1321			24		L	R					black
+2	PLB1	e	1222	2287			24		BL	R					black
+2	PLB1	e	1426	1946			24		L	R					black
+2	PLB2	e	424	2330			24		RB	L					black
+2	PLB2	e	1008	1345			24		L	R					black
+2	PLB2	e	1222	2311			24		BL	R					black
+2	PLB2	e	1426	1970			24		L	R					black
+2	PSD1	e	1179	1332			24		R	L					black
+2	PSD2	e	1179	1356			24		R	L					black
+2	PSH1	e	729	174			24		L	R					black
+2	SCS7	e	1848	1621			24		R	L					black
+2	SCT1	e	348	457			24		T	C					black
+2	SCT1	e	540	432			24		T	C					black
+2	SCT1	e	730	407			24		T	C					black
+2	SCT1	e	921	382			24		T	C					black
+2	SLC1	e	938	644			24		L	R					black
+2	SPO14	e	680	1207			24		R	L					black
+2	SPO14	e	680	1208			24		R	L					black
+2	SPO14	e	840	1247			24		L	R					black
+2	SUR1	e	2147	1343			24		T	C					black
+2	SUR2	e	1943	2017			24		L	R					black
+2	TAZ1	e	424	2205			24		RT	L					black
+2	TAZ1	e	1490	1332			24		R	L					black
+2	TGL1	e	436	963			24		RB	L					black
+2	TGL2	e	436	987			24		RB	L					black
+2	TGL3	e	436	1011			24		RB	L					black
+2	TGL4	e	436	1035			24		RB	L					black
+2	TSC10	e	1943	2170			24		L	R					black
+2	TSC13	e	729	262			24		L	R					black
+2	YDC1	e	1911	1852			24		L	R					black
+2	3-hydroxy-acyl-ACP	r	1342	118	1366	142			T	C					black
+2	3-hydroxy-acyl-CoA	r	765	118	789	142			T	C					black
+2	3-ketoacyl-ACP	r	1435	206	1459	230			R	L					black
+2	3-ketoacyl-CoA	r	859	206	883	230			R	L					black
+2	Acetyl-ACP	r	1342	294	1366	318			R	L					black
+2	Acyl-CoA	r	380	2174	404	2198			TL	L					black
+2	Acyl-CoA	r	469	743	493	767			TR	R					black
+2	Acyl-CoA	r	974	584	998	608			R	L					black
+2	Acyl-CoA	r	1248	2200	1272	2224			T	C					black
+2	Acyl-CoA	r	1512	1994	1536	2018			R	L					black
+2	Acyl-CoA	r	1782	196	1806	220			R	L					black
+2	Acyl-CoA	r	1881	2324	1905	2348			L	R					black
+2	Acyl-CoA	r	2012	1868	2036	1892			R	L					black
+2	C14:0-C26:0-CoA	r	765	294	789	318			B	C					black
+2	C16:1	r	573	118	597	142			R	L					black
+2	C16:1-C20:1-CoA	r	573	294	597	318			B	C					black
+2	C16:2-C20:2-CoA	r	382	294	406	318			B	C					black
+2	C18:1	r	573	93	597	117			R	L					black
+2	C18:2	r	382	93	406	117			R	L					black
+2	C18:2-C20:3-CoA	r	191	294	215	318			B	C					black
+2	C18:3	r	191	93	215	117			R	L					black
+2	C20:2	r	382	118	406	142			R	L					black
+2	C20:3	r	191	118	215	142			R	L					black
+2	C4:0-C18:0-ACP	r	1342	319	1366	343			R	L					black
+2	CDP-DAG	r	1021	958	1045	982			LT	R					black
+2	CTP	r	973	906	997	930			L	R					black
+2	DMPE	r	811	2168	835	2192			R	L					black
+2	Enoyl-acyl-ACP	r	1248	206	1272	230			R	L					black
+2	Enoyl-acyl-CoA	r	669	206	693	230			R	L					black
+2	Episterol	r	1782	937	1806	961			RB	L					black
+2	Ergost-7-en-3b-ol	r	2083	859	2107	883			T	C					black
+2	"Ergosta-7,22-dien-3-ol"	r	2083	937	2107	961			B	C					black
+2	Ergosterol	r	1782	1093	1806	1117			R	L					black
+2	FFA	r	380	2289	404	2313			B	C					black
+2	FFA	r	1850	1868	1874	1892			L	R					black
+2	G3P	r	286	402	310	426			R	L					black
+2	G3P	r	478	377	502	401			R	L					black
+2	G3P	r	669	352	693	376			R	L					black
+2	G3P	r	865	327	889	351			R	L					black
+2	G3P	r	1210	937	1234	961			R	L					black
+2	GM2IPC	r	2173	1497	2197	1521			R	L					black
+2	Ino	r	1282	1360	1306	1384			R	L					black
+2	Lanosterol	r	1782	625	1806	649			R	L					black
+2	"LCB 18:0,2"	r	1931	2093	1955	2117			L	R					black
+2	"LCB 18:0,3"	r	1931	1917	1955	1941			L	R					black
+2	"LCB 18:1,2"	r	1931	2225	1955	2249			L	R					black
+2	"LCBP 18:0,2"	r	2082	2094	2106	2118			R	L					black
+2	"LCBP 18:0,3"	r	2082	1917	2106	1941			R	L					black
+2	LPA	r	926	557	950	581			R	L					black
+2	Malonyl-ACP	r	1524	118	1548	142			T	C					black
+2	Malonyl-CoA	r	1782	118	1806	142			T	C					black
+2	MIPC	r	2173	1395	2197	1419			R	L					black
+2	MLCL	r	1441	1359	1465	1383			RB	L					black
+2	MMPE	r	811	2066	835	2090			R	L					black
+2	PGP	r	1210	854	1234	878			B	C					black
+2	Ser	r	973	977	997	1001			L	R					black
+2	Ser	r	1932	2356	1956	2380			R	L					black
